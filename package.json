@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next",
-    "build": "yarn next build && yarn next export",
+    "build:dev": "yarn next build && yarn next export",
     "start": "next start"
   },
   "keywords": [],
