@@ -1,0 +1,1 @@
+export default () => <div>Welcome asdasdsadato next111111.js!</div>
